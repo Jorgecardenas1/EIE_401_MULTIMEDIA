@@ -13,7 +13,10 @@
 _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 **Comienza tu proceso de aprendizaje de Python**  
-[Recurso 1](https://markdownlivepreview.com/).
+You may be using
+[[Descarga python]](https://www.python.org/)[
+[Todo lo necesario ] (https://www.youtube.com/watch?v=eWRfhZUzrAc).
+
 
 ## Actividades
 
@@ -39,9 +42,6 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 ## Links
 
-You may be using
-[[Descarga python]
-](https://www.python.org/)[Todo lo necesario] (https://www.youtube.com/watch?v=eWRfhZUzrAc).
 
 
 ## Blockquotes
