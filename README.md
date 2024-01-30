@@ -39,8 +39,10 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 ## Links
 
-You may be using 
-[[Markdown Live Preview](https://markdownlivepreview.com/).](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+You may be using
+[[Descarga python]
+](https://www.python.org/)[Todo lo necesario] (https://www.youtube.com/watch?v=eWRfhZUzrAc).
+
 
 ## Blockquotes
 
