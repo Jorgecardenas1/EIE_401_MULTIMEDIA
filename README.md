@@ -9,11 +9,11 @@
 
 ## Prerequisitos
 
-*Crear tu propio perfil en GitHub*  
-_This will also be italic_
+**Crear tu propio perfil en GitHub**  
+_Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 **Comienza tu proceso de aprendizaje de Python**  
-__This will also be bold__
+[Recurso 1](https://markdownlivepreview.com/).
 
 ## Actividades
 
@@ -39,11 +39,13 @@ __This will also be bold__
 
 ## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+You may be using 
+[[Markdown Live Preview](https://markdownlivepreview.com/).](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 
 ## Blockquotes
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+> Markdown is a lightweight m
+> arkup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
