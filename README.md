@@ -17,7 +17,7 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 2. [Lo fundamental del python desde cero (min Educación)](https://www.coursera.org/learn/aprendiendo-programar-python#modules)
 
-3. [Todo lo necesario ](https://www.youtube.com/watch?v=eWRfhZUzrAc).
+3. [Todo lo necesario ](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 
 4. [Excelentes cursos gratis en Harvard](https://pll.harvard.edu/subject/python)
 
