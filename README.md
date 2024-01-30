@@ -39,12 +39,14 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 | 12      | 10 de junio     |
 | 13      | 17 de junio     |
 
-## Images
+## Aplicaciones
+**Procesamiento digital de imagenes en radioastronomía**  
 
 ![image](https://github.com/Jorgecardenas1/EIE_401_MULTIMEDIA/assets/17277325/081b52ff-7d2f-4b64-aa3d-4b590c760640)
 
- [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=zREAEdXzOcw)
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zREAEdXzOcw/0.jpg)](https://www.youtube.com/watch?v=zREAEdXzOcw)
+**Procesamiento digital para sensado remoto y LIDAR** 
+
+[![LiDar](https://img.youtube.com/vi/zREAEdXzOcw/0.jpg)](https://www.youtube.com/watch?v=zREAEdXzOcw)
 
 
 ## Blockquotes
