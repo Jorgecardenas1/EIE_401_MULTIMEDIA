@@ -13,7 +13,7 @@
 _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 **Comienza tu proceso de aprendizaje de Python**  
-1. [[Descarga python]](https://www.python.org/)
+1. [Descarga python](https://www.python.org/)
 
 2. [Lo fundamental del python desde cero](https://www.coursera.org/learn/aprendiendo-programar-python#modules)
 
