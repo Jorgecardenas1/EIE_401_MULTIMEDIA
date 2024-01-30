@@ -13,9 +13,8 @@
 _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 **Comienza tu proceso de aprendizaje de Python**  
-You may be using
-[[Descarga python]](https://www.python.org/)[
-[Todo lo necesario ] (https://www.youtube.com/watch?v=eWRfhZUzrAc).
+1. [[Descarga python]](https://www.python.org/)
+2. [[Todo lo necesario ]] (https://www.youtube.com/watch?v=eWRfhZUzrAc).
 
 
 ## Actividades
