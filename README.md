@@ -43,10 +43,11 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 ![image](https://github.com/Jorgecardenas1/EIE_401_MULTIMEDIA/assets/17277325/081b52ff-7d2f-4b64-aa3d-4b590c760640)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-
-
+  <iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## Blockquotes
 
