@@ -41,11 +41,7 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 ## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-## Links
-
-
+![image](https://github.com/Jorgecardenas1/EIE_401_MULTIMEDIA/assets/17277325/081b52ff-7d2f-4b64-aa3d-4b590c760640)
 
 ## Blockquotes
 
@@ -56,13 +52,3 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 
 
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
