@@ -39,7 +39,7 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 | 12      | 10 de junio     |
 | 13      | 17 de junio     |
 
-<img src='./assets/image.png' width='100'>
+<img src='./assets/image.png' width='500'>
 
 ## Aplicaciones
 **Procesamiento digital de imagenes en radioastronomía**  
