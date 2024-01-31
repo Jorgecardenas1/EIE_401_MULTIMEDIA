@@ -30,7 +30,7 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 > [!CAUTION]
 **Se evalúa:**
-> Entrega en la fecha y hora correspondiente
+> Entrega en la fecha y hora correspondiente. Entrega con **TODO** lo necesario para que tu trabajo corra y se compruebe el funcionamiento (imagenes, videos, librerías).
 
 > [!CAUTION]
 **Se evalúa:**
