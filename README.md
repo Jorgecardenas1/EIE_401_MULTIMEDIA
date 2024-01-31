@@ -22,6 +22,17 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 4. [Excelentes cursos gratis en Harvard](https://pll.harvard.edu/subject/python)
 
 ## Actividades
+> [!IMPORTANT]
+> Las actividades corresponden al 25% de la nota final del curso.
+
+> [!WARNING]
+> Cada actividad tiene un punto calificable para la ayudantía.
+
+> [!CAUTION]Se evalúa:
+> Entrega en la fecha y hora correspondiente
+> Que cada punto de la actividad funcione y muestre el resultado
+> Calidad de la presentación del notebook
+
 
 | Actividad  | Fecha de entrega |
 | ------------- |:-------------:|
@@ -39,7 +50,6 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 | 12      | 10 de junio     |
 | 13      | 17 de junio     |
 
-<img src='./assets/image.png' width='300'>
 
 ## Aplicaciones
 **Procesamiento digital de imagenes en radioastronomía**  
