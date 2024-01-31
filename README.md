@@ -32,9 +32,13 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 **Se evalúa:**
 > Entrega en la fecha y hora correspondiente
 
+> [!CAUTION]
+**Se evalúa:**
 > Que cada punto de la actividad funcione y muestre el resultado
 
-> Calidad de la presentación del notebook
+> [!CAUTION]
+**Se evalúa:**
+> Calidad de la presentación del notebook: Líneas comentadas, orden código, explicación de los resultados y referencias!
 
 
 | Actividad  | Fecha de entrega |
