@@ -30,8 +30,10 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 
 > [!CAUTION]
 **Se evalúa:**
-> Entrega en la fecha y hora correspondiente. Entrega con **TODO** lo necesario para que tu trabajo corra y se compruebe el funcionamiento (imagenes, videos, librerías).
-
+> Entrega en la fecha y hora correspondiente. 
+> [!CAUTION]
+**Se evalúa:**
+>  Entrega con **TODO** lo necesario para que tu trabajo se ejecute y se compruebe el funcionamiento (imagenes, videos, librerías). No entregar todos los recursos se considera como no haber entregado el trabajo completo, afectando la calificación.
 > [!CAUTION]
 **Se evalúa:**
 > Que cada punto de la actividad funcione y muestre el resultado
