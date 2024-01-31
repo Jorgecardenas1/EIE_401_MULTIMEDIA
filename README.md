@@ -29,9 +29,12 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 > Cada actividad tiene un punto calificable para la ayudantía.
 
 > [!CAUTION]
-Se evalúa:
+**Se evalúa:**
+
 > Entrega en la fecha y hora correspondiente
+
 > Que cada punto de la actividad funcione y muestre el resultado
+
 > Calidad de la presentación del notebook
 
 
