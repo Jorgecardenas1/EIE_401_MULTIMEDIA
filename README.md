@@ -15,11 +15,13 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 **Comienza tu proceso de aprendizaje de Python**  
 1. [Descarga python](https://www.python.org/)
 
-2. [Lo fundamental del python desde cero (min Educación)](https://www.coursera.org/learn/aprendiendo-programar-python#modules)
+2. [Libro de métodos numéricos con python](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
-3. [Todo lo necesario ](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+3. [Lo fundamental del python desde cero (min Educación)](https://www.coursera.org/learn/aprendiendo-programar-python#modules)
 
-4. [Excelentes cursos gratis en Harvard](https://pll.harvard.edu/subject/python)
+4. [Todo lo necesario ](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+
+5. [Excelentes cursos gratis en Harvard](https://pll.harvard.edu/subject/python)
 
 ## Actividades
 > [!IMPORTANT]
