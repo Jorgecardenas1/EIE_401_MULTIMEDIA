@@ -50,9 +50,9 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 | Actividad  | Fecha de entrega (El dominog de cada semana a la 11:59pm) |
 | ------------- |:-------------:|
 | 1      | 23 de marzo     |
-| 2      | 20 de abril     |
-| 3      | 4 de mayo    |
-| 4      | 25 de mayo     |
+| 2      | 13 de abril     |
+| 3      | 18 de mayo    |
+| 4      | 1 de junio     |
 
 
 | Actividad  | Fecha de entrega (El domingo de cada semana a la 11:59pm) |
