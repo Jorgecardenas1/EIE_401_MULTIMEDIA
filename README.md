@@ -47,22 +47,18 @@ _Cada actividad desarrollada debe ser subida y revisada en tu perfil de GitHub_
 > Calidad de la presentación del notebook: Líneas comentadas, orden código, explicación de los resultados y referencias!
 
 
-| Actividad  | Fecha de entrega (El viernes de cada semana a la 11:59pm) |
+| Actividad  | Fecha de entrega (El dominog de cada semana a la 11:59pm) |
 | ------------- |:-------------:|
-| 1      | 18 de marzo     |
-| 2      | 25 de marzo     |
-| 3      | 1 de abril    |
-| 4      | 8 de abril     |
-| 5     | 15 de abril     |
-| 6      | 22 de abril     |
-| 7      | 6 de mayo    |
-| 8      | 13 de mayo     |
-| 9      | 20 de mayo    |
+| 1      | 23 de marzo     |
+| 2      | 20 de abril     |
+| 3      | 4 de mayo    |
+| 4      | 25 de mayo     |
 
-| Actividad  | Fecha de entrega (El viernes de cada semana a la 11:59pm) |
+
+| Actividad  | Fecha de entrega (El domingo de cada semana a la 11:59pm) |
 | ------------- |:-------------:|
-| Proyecto #1      | 29 de Abril     |
-| Proyecto #2     | 21 de Junio     |
+| Proyecto #1      | 27 de Abril     |
+| Proyecto #2     | 8 de Junio     |
 
 ## Aplicaciones
 **Procesamiento digital de imagenes en radioastronomía**  
